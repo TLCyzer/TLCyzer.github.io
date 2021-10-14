@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | TLCyzer</title>
+    <link>https://TLCyzer.github.io/authors/</link>
+      <atom:link href="https://TLCyzer.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://TLCyzer.github.io/media/icon_hu48b4c15a9c56172b3b5a8fdeda1232a0_25895_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>https://TLCyzer.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title>TLCyzer</title>
+      <link>https://TLCyzer.github.io/author/tlcyzer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://TLCyzer.github.io/author/tlcyzer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TLCyzer</title>
+    <link>https://TLCyzer.github.io/</link>
+      <atom:link href="https://TLCyzer.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>TLCyzer</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://TLCyzer.github.io/media/icon_hu48b4c15a9c56172b3b5a8fdeda1232a0_25895_512x512_fill_lanczos_center_2.png</url>
+      <title>TLCyzer</title>
+      <link>https://TLCyzer.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Legal details</title>
+      <link>https://TLCyzer.github.io/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://TLCyzer.github.io/terms/</guid>
+      <description>&lt;h3 id=&#34;legal-disclosure&#34;&gt;Legal Disclosure&lt;/h3&gt;
+&lt;p&gt;Information in accordance with Section 5 TMG&lt;/p&gt;
+&lt;p&gt;Mark Boss&lt;br&gt;
+Bismarckstr. 114&lt;br&gt;
+72072 Tübingen&lt;/p&gt;
+&lt;h3 id=&#34;contact-information&#34;&gt;Contact Information&lt;/h3&gt;
+&lt;p&gt;E-Mail: &lt;a href=&#34;mailto:hello@markboss.me&#34;&gt;hello@markboss.me&lt;/a&gt;&lt;br&gt;
+Internet address: markboss.me&lt;/p&gt;
+&lt;h1 id=&#34;disclaimer&#34;&gt;Disclaimer&lt;/h1&gt;
+&lt;h3 id=&#34;accountability-for-content&#34;&gt;Accountability for content&lt;/h3&gt;
+&lt;p&gt;The contents of our pages have been created with the utmost care. However, we cannot guarantee the contents&#39; accuracy, completeness or topicality. According to statutory provisions, we are furthermore responsible for our own content on these web pages. In this matter, please note that we are not obliged to monitor the transmitted or saved information of third parties, or investigate circumstances pointing to illegal activity. Our obligations to remove or block the use of information under generally applicable laws remain unaffected by this as per §§ 8 to 10 of the Telemedia Act (TMG).&lt;/p&gt;
+&lt;h3 id=&#34;accountability-for-links&#34;&gt;Accountability for links&lt;/h3&gt;
+&lt;p&gt;Responsibility for the content of external links (to web pages of third parties) lies solely with the operators of the linked pages. No violations were evident to us at the time of linking. Should any legal infringement become known to us, we will remove the respective link immediately.&lt;/p&gt;
+&lt;h3 id=&#34;copyright&#34;&gt;Copyright&lt;/h3&gt;
+&lt;p&gt;Our web pages and their contents are subject to German copyright law. Unless expressly permitted by law, every form of utilizing, reproducing or processing works subject to copyright protection on our web pages requires the prior consent of the respective owner of the rights. Individual reproductions of a work are only allowed for private use. The materials from these pages are copyrighted and any unauthorized use may violate copyright laws.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://TLCyzer.github.io/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://TLCyzer.github.io/privacy/</guid>
+      <description>&lt;p&gt;Your privacy is important to us. It is Mark Boss&#39; policy to respect your privacy regarding any information we may collect from you across our website, &lt;a href=&#34;https://TLCyzer.github.io&#34;&gt;https://TLCyzer.github.io&lt;/a&gt;, and other sites we own and operate.&lt;/p&gt;
+&lt;p&gt;We only ask for personal information when we truly need it to provide a service to you. We collect it by fair and lawful means, with your knowledge and consent. We also let you know why we’re collecting it and how it will be used.&lt;/p&gt;
+&lt;p&gt;We only retain collected information for as long as necessary to provide you with your requested service. What data we store, we’ll protect within commercially acceptable means to prevent loss and theft, as well as unauthorized access, disclosure, copying, use or modification.&lt;/p&gt;
+&lt;p&gt;We don’t share any personally identifying information publicly or with third-parties, except when required to by law.&lt;/p&gt;
+&lt;p&gt;Our website may link to external sites that are not operated by us. Please be aware that we have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies.&lt;/p&gt;
+&lt;p&gt;You are free to refuse our request for your personal information, with the understanding that we may be unable to provide you with some of your desired services.&lt;/p&gt;
+&lt;p&gt;Your continued use of our website will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information, feel free to contact us.&lt;/p&gt;
+&lt;p&gt;This policy is effective as of 1 April 2020.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TLCyzer</title>
+      <link>https://TLCyzer.github.io/author/tlcyzer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://TLCyzer.github.io/author/tlcyzer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
