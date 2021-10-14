@@ -1,4 +1,4 @@
 # TLCyzer website
 
 
-Backed by Hugo and the Academic Template
+Backed by [Hugo](https://gohugo.io) and the [Academic Template](https://wowchemy.com/hugo-themes/)
