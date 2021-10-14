@@ -1,7 +1,7 @@
 {
     "latestVersion": "0.3",
     "latestVersionCode": 3,
-    "url": "https://TLCyzer.github.io/files/tlcyzer/app-debug.apk",
+    "url": "https://tlcyzer.github.io/files/tlcyzer/app-debug.apk",
     "releaseNotes": [
       "- Fixes deleting items after a delete was triggered.",
       "- The issue is also fixed for sharing.",
