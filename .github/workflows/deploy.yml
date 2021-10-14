@@ -3,7 +3,7 @@ name: Publish Site
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   build-deploy:
@@ -19,6 +19,6 @@ jobs:
         with:
           githubToken: ${{ secrets.GITHUB_TOKEN }}
           hugoVersion: extended_0.84.1
-          branch: master
+          branch: main
           repo: TLCyzer/TLCyzer.github.io
           args: --gc --minify --cleanDestinationDir
