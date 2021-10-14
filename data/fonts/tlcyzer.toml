@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Serif"
+
+# Optional Google font URL
+google_fonts = "family=Alegreya:ital,wght@0,400;0,700;1,400&family=Oxygen+Mono&family=Oxygen:wght@400;700"
+
+# Font families
+heading_font = "Oxygen"
+body_font = "Alegreya"
+nav_font = "Alegreya"
+mono_font = "Oxygen Mono"

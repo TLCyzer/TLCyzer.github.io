@@ -1,0 +1,22 @@
+# Theme metadata
+name = "TLCyzer"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#75996a"
+
+# Menu
+menu_primary = "#75996a" # 500
+menu_text = "#fff"
+menu_text_active = "#D6E0D2" # A100
+menu_title = "#fff"
+
+# Home sections
+background = "#E8F2E4"
+home_section_odd = "#E8F2E4"
+home_section_even = "#D6E0D2"
+
+link = "#587C4D"
+link_hover = "#75996a"

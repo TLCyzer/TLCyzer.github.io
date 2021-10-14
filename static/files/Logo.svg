@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<svg height="110" viewBox="0 0 110 110" width="110" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="22%" style="stop-color:rgb(0,0,0);stop-opacity:0.4" />
+      <stop offset="100%" style="stop-color:rgb(0,0,0);stop-opacity:0" />
+    </linearGradient>
+  </defs>
+  <path
+      d="M0,0h110v110h-110z"
+      fill="#D6E0D2"/>
+  <path d="M87.008,52.865L75.623,41.457L75.623,110H87.008V52.865Z" fill="url(#grad1)"/>
+  <path d="M68.96,57.836L57.575,46.428V109.96H68.96V57.836Z" fill="url(#grad1)"/>
+  <path d="M51.1,50.845L39.715,39.437V110.071H51.1V50.845Z" fill="url(#grad1)"/>
+  <path d="M30,49h13v61h-13z" fill="#587C4D"/>
+  <path d="M48,56h13v54h-13z" fill="#587C4D"/>
+  <path d="M66,52h13v58h-13z" fill="#587C4D"/>
+  <path d="M30,49a6.5,11 0,1 0,13 0a6.5,11 0,1 0,-13 0z" fill="#75996a"/>
+  <path d="M48,57a6.5,12 0,1 0,13 0a6.5,12 0,1 0,-13 0z" fill="#75996a"/>
+  <path d="M66,52a6.5,12 0,1 0,13 0a6.5,12 0,1 0,-13 0z" fill="#75996a"/>
+</svg>
