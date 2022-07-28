@@ -9,9 +9,6 @@ cta:
   url: https://play.google.com/store/apps/details?id=de.uni.tuebingen.tlceval
   icon_pack: fas
   icon: download
-cta_alt:
-  label: Download (F-Droid - Soon)
-  url: https://www.f-droid.org
 cta_note:
   label: >-
     <div style="text-shadow: none;"><a href="https://github.com/TLCyzer/tlcyzer">Check the source code</a></div><div style="text-shadow: none;"><a href="https://github.com/TLCyzer/tlcyzer/issues">Help out</a></div>
@@ -24,4 +21,4 @@ cta_note:
 #   css_class: fullscreen
 ---
 
-**TLCyzer is a free and open source drug screening application, tested in a [scientific study]().**
+**TLCyzer is a free and open source smartphone app for the quantitative evaluation of thin-layer chromatographic analyses in medicine quality screening, described and validated in a scientific study (doi:???????)**
